@@ -1,0 +1,11 @@
+C:\Users\survi\source\repos\Reloj de Lamport Console\bin\Debug\netcoreapp2.1\Reloj de Lamport Console.deps.json
+C:\Users\survi\source\repos\Reloj de Lamport Console\bin\Debug\netcoreapp2.1\Reloj de Lamport Console.runtimeconfig.json
+C:\Users\survi\source\repos\Reloj de Lamport Console\bin\Debug\netcoreapp2.1\Reloj de Lamport Console.runtimeconfig.dev.json
+C:\Users\survi\source\repos\Reloj de Lamport Console\bin\Debug\netcoreapp2.1\Reloj de Lamport Console.dll
+C:\Users\survi\source\repos\Reloj de Lamport Console\bin\Debug\netcoreapp2.1\Reloj de Lamport Console.pdb
+C:\Users\survi\source\repos\Reloj de Lamport Console\obj\Debug\netcoreapp2.1\Reloj de Lamport Console.csprojAssemblyReference.cache
+C:\Users\survi\source\repos\Reloj de Lamport Console\obj\Debug\netcoreapp2.1\Reloj de Lamport Console.csproj.CoreCompileInputs.cache
+C:\Users\survi\source\repos\Reloj de Lamport Console\obj\Debug\netcoreapp2.1\Reloj de Lamport Console.AssemblyInfoInputs.cache
+C:\Users\survi\source\repos\Reloj de Lamport Console\obj\Debug\netcoreapp2.1\Reloj de Lamport Console.AssemblyInfo.cs
+C:\Users\survi\source\repos\Reloj de Lamport Console\obj\Debug\netcoreapp2.1\Reloj de Lamport Console.dll
+C:\Users\survi\source\repos\Reloj de Lamport Console\obj\Debug\netcoreapp2.1\Reloj de Lamport Console.pdb
